@@ -1,11 +1,80 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Duy%20👋&fontSize=70" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dwy205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duy-dang-162a99375) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dangvuduy2k5@gmail.com) 
+<div align="center">
+  <h3> 🎓 Computer Science Student @ HCMUT (Bach Khoa) </h3>
+  <p> ⚡ Building things for a better world with Code & Creativity </p>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dwy205&show_icons=true&theme=radical)
-<!-- light mode -->
-![Snake animation](https://github.com/dwy205/dwy205/blob/output/github-contribution-grid-snake.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwy205/dwy205/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dwy205/dwy205/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dwy205/dwy205/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages & Core
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
+
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi&logoColor=white) 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+### 📊 Data & AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+### ☁️ DevOps & Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwy205&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Duy's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwy205&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+</div>
+
+---
+
+## 🌐 Connect with me
+<div align="center">
+  <a href="https://facebook.com/dwy205" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://linkedin.com/in/duy-dang-162a99375" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dangvuduy2k5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+</div>
