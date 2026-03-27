@@ -7,9 +7,5 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dwy205&show_icons=true&theme=radical)
 <!-- light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwy205/dwy205/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dwy205/dwy205/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dwy205/dwy205/output/dist/github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/dwy205/dwy205/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
