@@ -15,28 +15,23 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: dwy205
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          force_orphan: true
-```
-
-Thay đổi chính so với trước:
-- Bỏ `crazy-max/ghaction-github-pages@v3` (cái này đang bị deprecated, gây lỗi)
-- Dùng `peaceiris/actions-gh-pages@v3` thay thế — ổn định hơn
-- Thêm `permissions: contents: write` để Actions có quyền tạo branch
-
-Sau khi save, vào **Actions** → **Generate Snake** → **Run workflow**. Chờ ~30 giây rồi thử lại link:
-```
-https://raw.githubusercontent.com/dwy205/dwy205/output/dist/github-snake.svg
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output || git checkout output
+          git rm -rf . || true
+          cp -r dist/* .
+          git add github-snake.svg github-snake-dark.svg
+          git commit -m "update snake"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
